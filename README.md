@@ -1,1 +1,1 @@
-# Health_Data_Management_and_Informatics_System
+# Health Data Management and Informatics System
